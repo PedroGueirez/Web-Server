@@ -8,8 +8,8 @@ Web-Server is a application where we can create several rooms with several users
 
 ### Installation Steps
 To get started with the Web-Server, follow these simple steps:
-# Clone the repository
-# Go into the project directory
+### Clone the repository
+### Go into the project directory
 
 To connect to the server and test its basic functionality, open your terminal and run:
-nc <ip> <port>
+- nc localhost port
